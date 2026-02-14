@@ -1,6 +1,6 @@
 **Enhancing Quality Of Intelligent 5G-Enabled IoT Environments Comparative Analysis With 4G Networks**
 
-This project presents a Comparative Analysis between 4G and 5G networks, specifically focusing on how 5G-enabled infrastructures transform the Internet of Things (IoT) landscape. By utilizing empirical measurements and simulations, this research underscores the leap in performance metrics, energy efficiency, and scalability.
+📡This project presents a Comparative Analysis between 4G and 5G networks, specifically focusing on how 5G-enabled infrastructures transform the Internet of Things (IoT) landscape. By utilizing empirical measurements and simulations, this research underscores the leap in performance metrics, energy efficiency, and scalability.
 
 
 🎯 **Project Objectives**
