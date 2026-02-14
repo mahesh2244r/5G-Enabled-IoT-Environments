@@ -4,7 +4,7 @@ This project presents a Comparative Analysis between 4G and 5G networks, specifi
 
 🎯 **Project Objectives**
 The primary aim is to enhance the quality of working in IoT environments by integrating real-time analytics and machine-type communication
-**-Performance Benchmarking:** Quantifying the transition from 4G to 5G.
+**-Performance Benchmarking:** Quantifying the transition from 4G to 5G. 
 **-Efficiency Analysis:** Evaluating 5G's impact on device battery life and power consumption.
 **-Scalability:** Testing the network's capacity to handle a massive increase in connected devices.
 
