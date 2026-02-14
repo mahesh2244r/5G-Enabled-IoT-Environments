@@ -35,11 +35,10 @@ Based on the research findings, the 5G-enabled IoT environment delivers:
 The study involved an Independent Sample T-test comparing a novel IoT algorithm against standard Quality of Service (QOS) algorithms.
 
 
-Algorithm                    , Mean Accuracy          , Sample Size (N)
-
-Novel IoT Algorithm	           , 86.45%	                ,  20
-
-QOS Algorithm                 ,	82.95%	                  , 20
+| Algorithm | Mean Accuracy | Sample Size (N) |
+| :--- | :---: | :---: |
+| **Novel IoT Algorithm** | 86.45% | 20 |
+| **QOS Algorithm** | 82.95% | 20|
 
 
 **Statistical Significance**:
